@@ -8,3 +8,4 @@ This repository contains all of the notes taken by [Dominique Masena](https://gi
 * [Week 1](Week_1)
   * [Day 1](/Week_1/Day_1)
 
+v
